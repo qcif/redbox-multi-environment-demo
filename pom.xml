@@ -499,8 +499,8 @@
     </repository>
   </repositories>
   <scm>
-    <url>https://github.com/redbox-mint/redbox-build-dev-local</url>
-    <developerConnection>scm:git:https://github.com/redbox-mint/redbox-build-dev-local.git</developerConnection>
+    <url>https://github.com/qcif/redbox-multi-environment-demo</url>
+    <developerConnection>scm:git:https://github.com/qcif/redbox-multi-environment-demo.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
   <distributionManagement>
